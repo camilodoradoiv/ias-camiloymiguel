@@ -1,0 +1,4 @@
+PySide6
+gTTS
+pyttsx3
+yt-dlp
